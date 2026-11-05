@@ -1,0 +1,6 @@
+# arquivos gerados pela compilação
+dist/
+build/
+github-upload/
+*.exe
+*.pdb

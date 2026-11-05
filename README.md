@@ -1,7 +1,7 @@
 # CalcPro — Calculadora Científica para Windows
 
 Aplicativo **nativo para Windows** (C# / WinForms, .NET Framework 4 que já vem no Windows 10/11).
-Não usa navegador nem precisa de instalação: basta executar `dist\CalcPro.exe`.
+Não usa navegador nem precisa de instalação: basta baixar o `CalcPro.exe` na página [Releases](https://github.com/akcioamaral-ui/CalcPro/releases/latest) e executar.
 
 Inspirado nos recursos do Mobi Calculator (calculadora de expressões com histórico, RPN, bases etc.).
 
